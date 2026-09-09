@@ -251,14 +251,9 @@ This type of analysis can help a music-streaming business understand:
 **Himanshu Sharma**
 
 Data Analyst
+
 Gmail: himanshusharma46944@gmail.com
+
 Linkedin: https://www.linkedin.com/in/himanshu721/
 
 
----
-
-## ⭐ Project Highlights
-
-**End-to-end data analytics project combining:**
-
-`Raw Data → Data Validation → Exploratory Data Analysis → Insights → Power BI Dashboard → Business Storytelling`
