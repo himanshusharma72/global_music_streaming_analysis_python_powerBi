@@ -1,6 +1,6 @@
-# 🎵 Global Music Streaming Trend Analysis
+# Global Music Streaming Trend Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes global music streaming listener preferences to understand how users consume music across different platforms, genres, countries, age groups, subscription types, and listening times.
 
@@ -8,7 +8,7 @@ The project combines **Python-based exploratory data analysis** with an **intera
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The analysis focuses on six key questions:
 
@@ -21,7 +21,7 @@ The analysis focuses on six key questions:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains **5,000 listener records** and **12 variables** covering user demographics, streaming behavior, preferences, and engagement.
 
@@ -44,7 +44,7 @@ The dataset contains **5,000 listener records** and **12 variables** covering us
 
 ---
 
-## 🔎 Data Quality Checks
+## Data Quality Checks
 
 The dataset was inspected before analysis.
 
@@ -57,7 +57,7 @@ The dataset was inspected before analysis.
 
 ---
 
-## 🐍 Python Analysis
+## Python Analysis
 
 Python was used for data inspection, cleaning/validation, exploratory analysis, aggregation, and visualization.
 
@@ -75,7 +75,7 @@ The complete analysis is available in:
 
 ---
 
-## 📈 Key Analysis Areas
+## Key Analysis Areas
 
 ### 1. Streaming Platform Analysis
 
@@ -128,7 +128,7 @@ Country-level analysis is used to explore differences in streaming preferences a
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 An interactive Power BI dashboard was created to present the analysis in a more user-friendly and business-oriented format.
 
@@ -159,7 +159,7 @@ The dashboard covers:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 The analysis provides several useful observations:
 
@@ -175,7 +175,7 @@ The analysis provides several useful observations:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Global Music/
@@ -199,7 +199,7 @@ Global Music/
 
 ---
 
-## 🚀 How to Explore the Project
+## How to Explore the Project
 
 ### Python Analysis
 
@@ -217,7 +217,7 @@ Global Music/
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -233,7 +233,7 @@ Global Music/
 
 ---
 
-## 💡 Business Value
+## Business Value
 
 This type of analysis can help a music-streaming business understand:
 
@@ -246,11 +246,14 @@ This type of analysis can help a music-streaming business understand:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Himanshu Sharma**
 
-Data Analyst | Python | SQL | Power BI | Data Visualization
+Data Analyst
+Gmail: himanshusharma46944@gmail.com
+Linkedin: https://www.linkedin.com/in/himanshu721/
+
 
 ---
 
